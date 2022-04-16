@@ -12,3 +12,5 @@
 11. Will ask for username and password. For password - you have to generate Personal token.
 12. Go to settings -> Developer Settings -> Personal action token -> check all -> generate token. Copy and save it.
 13. GIT CHEAT-SHEET : https://education.github.com/git-cheat-sheet-education.pdf
+14. https://dzone.com/articles/top-20-git-commands-with-examples
+15. https://gist.github.com/cferdinandi/ef665330286fd5d7127d
