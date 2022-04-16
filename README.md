@@ -11,4 +11,4 @@
 10. "git push -u origin master"
 11. Will ask for username and password. For password - you have to generate Personal token.
 12. Go to settings -> Developer Settings -> Personal action token -> check all -> generate token. Copy and save it.
-GIT CHEAT-SHEET : https://education.github.com/git-cheat-sheet-education.pdf
+13. GIT CHEAT-SHEET : https://education.github.com/git-cheat-sheet-education.pdf
